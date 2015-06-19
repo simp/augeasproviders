@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_ef33dba8",
+        "filename": "Gemfile",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1005143
+      },
+      "writtenOn": "2015-06-19T15:49:11Z",
+      "side": 1,
+      "message": "Standard note on \":require \u003d\u003e false:\" \n\nbundler will still attempt to install the gem (and error out if it can\u0027t get it).  \n\nThe \":require\" directive just prevents bundler from autorequiring the gem when bundle exec\u0027ing.",
+      "range": {
+        "startLine": 33,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 44
+      },
+      "revId": "5813ab82ba9adc7272f1780b9bdb176ac50987aa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
