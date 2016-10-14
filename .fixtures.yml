@@ -1,3 +1,4 @@
+---
 fixtures:
   repositories:
     stdlib:
@@ -31,4 +32,4 @@ fixtures:
     augeasproviders_syslog:
       repo: git://github.com/hercules-team/augeasproviders_syslog.git
   symlinks:
-    "augeasproviders": "#{source_dir}"
+    augeasproviders: "#{source_dir}"
